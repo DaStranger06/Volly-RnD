@@ -1,0 +1,2 @@
+rootProject.name = "Volly_rnd"
+include ':app'
